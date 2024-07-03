@@ -10,3 +10,6 @@ This repository consists of code for the interaction behaviours developed as par
 
 ## Analysis
 - The folder `User Study` contains the anonymized data and the analysis conducted on the data to drive insights into how social behaviours displayed by an autonomous mobile robot impacts its safety perception and trustworthiness by humans.
+
+## Report
+- Final addition to the repository is the report and the presentation used for the defence (defended on 19-06-2024). The report comprehensively records the research problem, the process, and the findings. The presentation serves as a further abstraction of the report.
